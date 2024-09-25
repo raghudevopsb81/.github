@@ -9,3 +9,26 @@ Following are the links that we will refer in the training
 | AWS Login Page  | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |  |
 
 
+Linux Basic Commands.
+
+```
+ls  / -l / -A / -h 
+cd 
+pwd 
+touch 
+mkdir 
+rm / -r / -f 
+cp / -r 
+mv 
+vi 
+cat / -n 
+head 
+tail / -n 
+grep 
+awk 
+curl / -L / -o / -O 
+tar -x -f 
+unzip 
+PIPE 
+```
+
