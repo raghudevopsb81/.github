@@ -33,6 +33,15 @@ curl / -L / -o / -O
 tar -x -f 
 unzip 
 PIPE 
+
+ps 
+kill / -9
+sudo 
+dnf list / install | repo files in /etc/yum.repos.d 
+systemctl start /stop /restart /enable 
+useradd 
+chown / chgrp / chown 
+lsblk / df -h 
 ```
 
 # Create server in AWS 
