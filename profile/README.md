@@ -81,7 +81,7 @@ MacOS -> Open Terminal -> ssh ec2-user@<PUBLIC-IP> -> It will prompt for yes or 
 <img width="1099" alt="image" src="https://github.com/user-attachments/assets/641012f1-a037-4070-8c40-86449b00418b">
 
 
-Windos -> Open Putty -> Enter IP address -> You will be prompted to Accept -> Enter username as ec2-user -> Enter Password -> DevOps321
+Windows -> Open Putty -> Enter IP address -> You will be prompted to Accept -> Enter username as ec2-user -> Enter Password -> DevOps321
 
 ![image](https://github.com/user-attachments/assets/c6f8c5f3-7c83-4432-be48-41c26ed0295e)
 
