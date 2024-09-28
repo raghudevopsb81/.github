@@ -44,7 +44,7 @@ chown / chgrp / chown
 lsblk / df -h 
 ```
 
-# Create server in AWS 
+# Create a server in AWS 
 
 
 Open URL:
@@ -68,23 +68,26 @@ Click on Browse AMIs
 
 
 
-Now we need to connect to instance.
+Now we need to connect to the instance.
 
 MacOS - Use inbuilt terminal 
+
 Windows - Download Putty - https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe
 
 Copy Public IP address.
 
 MacOS -> Open Terminal -> ssh ec2-user@<PUBLIC-IP> -> It will prompt for yes or no -> Type yes -> Enter Password -> DevOps321 
+
 <img width="1099" alt="image" src="https://github.com/user-attachments/assets/641012f1-a037-4070-8c40-86449b00418b">
 
 
 Windos -> Open Putty -> Enter IP address -> You will be prompted to Accept -> Enter username as ec2-user -> Enter Password -> DevOps321
+
 ![image](https://github.com/user-attachments/assets/c6f8c5f3-7c83-4432-be48-41c26ed0295e)
 
 ![image](https://github.com/user-attachments/assets/7a5a9c84-ec34-4bf2-9b88-eced473ef444)
 
-Choose Aceept 
+Choose Accept 
 
 ![image](https://github.com/user-attachments/assets/8c9db21a-4465-4c2c-ade6-0aa59bdf83b1)
 
