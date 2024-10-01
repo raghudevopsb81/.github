@@ -2,6 +2,7 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
+| Project Documentation | https://learndevopsonline.github.io/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview | |
 | Killercoda | https://killercoda.com/rkalluru |  |
 | Miro Link | https://miro.com/app/board/uXjVLbj2YRo=/?share_link_id=537403438667 | |
 | AWS Account Signup Video | https://www.youtube.com/watch?v=JFwAS_8BZvM |  |
