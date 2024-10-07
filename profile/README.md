@@ -2,6 +2,10 @@ Following are the links that we will refer in the training
 
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
+| | Linux -> Kilercoda
+Project -> LINK 
+Starting from Scripting -> DOC 
+ |
 | Project Documentation | https://learndevopsonline.github.io/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview | |
 | Killercoda | https://killercoda.com/rkalluru |  |
 | Miro Link | https://miro.com/app/board/uXjVLbj2YRo=/?share_link_id=537403438667 | |
