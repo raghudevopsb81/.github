@@ -3,6 +3,7 @@ Following are the links that we will refer in the training
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
 | | Linux -> Kilercoda           ---    Project -> LINK       ----      Starting from Scripting -> DIGITAL DOC - https://youtu.be/JwqtkS3Qk4k | |
+| Reference Note & Code | https://github.com/r-devops/ref-note-and-code | Here you will find the reference code blocks for all the tools and some notes |
 | Project Documentation | https://learndevopsonline.github.io/learndevopsonline/build/docs/RoboShop-Project-V3/project-overview | |
 | Killercoda | https://killercoda.com/rkalluru |  |
 | Miro Link | https://miro.com/app/board/uXjVLbj2YRo=/?share_link_id=537403438667 | |
