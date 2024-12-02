@@ -10,6 +10,7 @@ Following are the links that we will refer in the training
 | AWS Account Signup Video | https://www.youtube.com/watch?v=JFwAS_8BZvM |  |
 | AWS Account Signup Link  | https://portal.aws.amazon.com/billing/signup#/start/email |  |
 | AWS Login Page  | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |  |
+| APp repos | https://github.com/roboshop-devops-project-v3 | |
 
 ### Linux Username - ec2-user
 ### Linux Password - DevOps321
